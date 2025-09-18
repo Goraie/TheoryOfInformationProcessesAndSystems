@@ -1,1 +1,1 @@
-# TheoryOfInformationProcessesAndSystems
+# ТиПиС)
